@@ -1,18 +1,21 @@
-## Getting Started
+# 2D Floor Planner 📐
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based 2D floor planning application that allows users to create, modify, and manage virtual room layouts. The planner supports adding rooms, doors, and windows relative to one another with customizable sizes, providing a flexible tool for designing simple floor plans.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🛠️ Key Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Add rooms of different sizes.
+- Place doors and windows relative to rooms.
+- Customize room dimensions and orientations.
+- Save the current floor plan to a file.
+- Load and view previously saved floor plans.
+- Interactive and user-friendly GUI using Java Swing.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Tech Stack
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Language:** Java  
+- **Library:** Java Swing
